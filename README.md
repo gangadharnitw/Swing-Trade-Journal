@@ -7,6 +7,9 @@
 * **Strategy:** Trend-Following / "Buy the Dip"
 * **Thesis Rationale:** The trade is based on a high-probability technical setup. UGI is in a strong, established uptrend and has pulled back to its 50-day moving average. This moving average has served as a reliable support level throughout the entire rally. The expectation is for the price to bounce from this support and resume its primary uptrend. The risk/reward profile is favorable.
 
+* **Chart:**
+  <img width="1237" alt="image" src="https://github.com/user-attachments/assets/e14a3ec2-5342-4bb4-bcb2-c6835472432f" />
+
 ---
 
 #### 2. Execution Details
